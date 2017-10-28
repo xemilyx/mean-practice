@@ -1,0 +1,31 @@
+{
+  "name": "mean-practice",
+  "version": "1.0.0",
+  "description": "mean stack application based on mean hotel from udemy course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xemilyx/mean-practice.git"
+  },
+  "keywords": [
+    "mean",
+    "hotel",
+    "udemy"
+  ],
+  "author": "Emily Brown Suon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xemilyx/mean-practice/issues"
+  },
+  "homepage": "https://github.com/xemilyx/mean-practice#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
