@@ -1,7 +1,6 @@
 {
   "name": "mean-practice",
   "version": "1.0.0",
-<<<<<<< HEAD
   "description": "mean stack application based on mean hotel from udemy course",
   "main": "app.js",
   "scripts": {
